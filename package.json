@@ -1,7 +1,7 @@
 {
-  "homepage": "https://Ra1nroad.github.io/RecipeApp",
   "name": "delicious",
   "version": "0.1.0",
+  "homepage": "https://Ra1nroad.github.io/RecipeApp",
   "private": true,
   "dependencies": {
     "@splidejs/react-splide": "^0.7.11",
@@ -9,7 +9,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "framer-motion": "^7.3.6",
-    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
@@ -45,6 +44,6 @@
     ]
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0"
+    "gh-pages": "^4.0.0"
   }
 }
